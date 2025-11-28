@@ -19,12 +19,9 @@ AI-powered modern stock market app built with Next.js, Shadcn, Better Auth, and 
 
 - **[Better Auth](https://www.better-auth.com/)** is a framework-agnostic authentication and authorization library for TypeScript. It provides built-in support for email/password login, social sign-on (Google, GitHub, Apple, and more), and multi-factor authentication, simplifying user authentication and account management.
 
-- **[CodeRabbit](https://jsm.dev/stocks-coderabbit)** is an AI-powered code review assistant that integrates with GitHub. It helps developers catch bugs, enforce best practices, and maintain consistent code quality across pull requests, reducing manual review effort and speeding up the development workflow.
-
-
 - **[Finnhub](https://finnhub.io/)** is a real-time financial data API that provides stock, forex, and cryptocurrency market data. It offers developers access to fundamental data, economic indicators, and news, making it useful for building trading apps, dashboards, and financial analysis tools.
 
-- **[Inngest](https://jsm.dev/stocks-inngest)** is a platform for event-driven workflows and background jobs. It allows developers to build reliable, scalable automated processes such as real-time alerts, notifications, and AI-powered workflows.
+- **[Inngest](https://www.inngest.com/)** is a platform for event-driven workflows and background jobs. It allows developers to build reliable, scalable automated processes such as real-time alerts, notifications, and AI-powered workflows.
 
 - **[MongoDB](https://www.mongodb.com/)** is a flexible, high-performance NoSQL database. It stores data in JSON-like documents, supports dynamic schemas, and provides robust features for scalability, replication, and querying.
 
@@ -42,7 +39,7 @@ AI-powered modern stock market app built with Next.js, Shadcn, Better Auth, and 
 
 👉 **Stock Dashboard**: Track real-time stock prices with interactive line and candlestick charts, including historical data, and filter stocks by industry, performance, or market cap.
 
-👉 **Powerful Search**: Quickly find the best stocks with an intelligent search system that helps you navigate through Signalist.
+👉 **Powerful Search**: Quickly find the best stocks with an intelligent search system that helps you navigate through SignalEdge.
 
 👉 **Watchlist & Alerts**: Create a personalized watchlist, set alert thresholds for price changes or volume spikes, and receive instant email notifications to stay on top of the market.
 
@@ -73,8 +70,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/signalist_stock-tracker-app.git
-cd signalist_stock-tracker-app
+git clone https://github.com/nitishkb19315/signaledge_stock-tracker-app.git
+cd signaledge_stock-tracker-app
 ```
 
 **Installation**
@@ -112,7 +109,7 @@ NODEMAILER_EMAIL=
 NODEMAILER_PASSWORD=
 ```
 
-Replace the placeholder values with your real credentials. You can get these by signing up at: [**MongoDB**](https://www.mongodb.com/products/platform/atlas-database), [**Gemini**](https://aistudio.google.com/prompts/new_chat?utm_source=chatgpt.com), [**Inngest**](https://jsm.dev/stocks-inggest), [**Finnhub**](https://finnhub.io).
+Replace the placeholder values with your real credentials. You can get these by signing up at: [**MongoDB**](https://www.mongodb.com/products/platform/atlas-database), [**Gemini**](https://aistudio.google.com/prompts/new_chat?utm_source=chatgpt.com), [**Inngest**](https://www.inngest.com/), [**Finnhub**](https://finnhub.io).
 
 **Running the Project**
 
@@ -123,21 +120,4 @@ npx inngest-cli@latest dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## <a name="links">🔗 Assets</a>
 
-Assets and snippets used in the project can be found in the **[video kit](https://jsm.dev/stocks-kit)**.
-
-<a href="https://jsm.dev/stocks-kit" target="_blank">
-  <img src="public/readme/videokit.webp" alt="Video Kit Banner">
-</a>
-
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsm.dev/stocks-jsmpro" target="_blank">
-  <img src="public/readme/jsmpro.webp" alt="Project Banner">
-</a>

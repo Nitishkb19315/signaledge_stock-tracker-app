@@ -5,9 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8039e1aa-3cf1-4da6-86d9-6cc4a631c525" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(auth)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(auth)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/UserDropdown.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/UserDropdown.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/inngest/client.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/inngest/client.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/inngest/functions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/inngest/functions.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/inngest/prompts.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/inngest/prompts.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/nodemailer/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/nodemailer/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/nodemailer/templates.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/nodemailer/templates.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/icons/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/icons/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/readme/hero.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/readme/jsmpro.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/readme/module-thumbnail.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/readme/thumbnail.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/readme/videokit.webp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +78,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/assets/images" />
       <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -103,7 +119,7 @@
       <workItem from="1757793249623" duration="9382000" />
       <workItem from="1764001661502" duration="531000" />
       <workItem from="1764002213053" duration="3474000" />
-      <workItem from="1764312963424" duration="235000" />
+      <workItem from="1764312963424" duration="7514000" />
     </task>
     <servers />
   </component>
