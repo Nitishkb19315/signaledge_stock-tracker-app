@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8039e1aa-3cf1-4da6-86d9-6cc4a631c525" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/nodemailer/templates.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/nodemailer/templates.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/nodemailer/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/nodemailer/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +107,7 @@
       <workItem from="1764001661502" duration="531000" />
       <workItem from="1764002213053" duration="3474000" />
       <workItem from="1764312963424" duration="11533000" />
-      <workItem from="1764424983301" duration="3732000" />
+      <workItem from="1764424983301" duration="4888000" />
     </task>
     <servers />
   </component>
