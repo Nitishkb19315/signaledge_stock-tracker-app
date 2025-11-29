@@ -876,7 +876,7 @@ npm start
 
 ## 📞 Support & Resources
 
-- **GitHub Repository**: [signalist_stock-tracker-app](https://github.com/nitishkb19315/signaledge_stock-tracker-app)
+- **GitHub Repository**: [signaledge_stock-tracker-app](https://github.com/nitishkb19315/signaledge_stock-tracker-app)
 - **Documentation**: See README.md
 - **API Docs**: 
   - [Finnhub API](https://finnhub.io/docs/api)
